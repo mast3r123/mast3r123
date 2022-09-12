@@ -18,7 +18,7 @@
 ---
 
 ### :man_technologist: About Me : I am a iOS Developer from Canada.
-- :telescope: I’m a student studying Web Development and also working as a Freelancer and contributing to building iOS applications.
+- :telescope: I’m working as a Freelancer and contributing to building iOS applications.
 
 - :zap: In my free time, I'm either solving LeetCode problems or wrapping my head around reactive programming.
 
