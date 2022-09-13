@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/masterabhishek/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/aMaster96">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=mast3r123&style=flat-square&color=blue" alt=""/>
 <h1>
@@ -21,8 +18,6 @@
 - :telescope: I’m working as a Freelancer and contributing to building iOS applications.
 
 - :zap: In my free time, I'm either solving LeetCode problems or wrapping my head around reactive programming.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/masterabhishek/)
 
 ---
 
